@@ -9,6 +9,8 @@
 
 ## 安装和使用
 
+**国内下载**　[应用资源站 · 微信步数](https://app.wuhua0871.com/resources/wechat-step)
+
 1. 从 [Releases](https://github.com/Xposed-Modules-Repo/com.wuhua0871.wechatsteps/releases) 下载 `WeChatSteps-1.6-beta2.apk`。已安装公开版的用户可直接覆盖升级。
 2. 在 LSPosed 或 Vector 中启用模块，作用域仅勾选微信。如果同时装有其他微信步数模块，请先关闭它们的微信作用域。
 3. 如果首页显示「等待加载」，点「去微信应用信息」，在系统页点「强行停止」，返回模块后点「打开微信」。
@@ -27,4 +29,10 @@
 
 ## 作者
 
-应用内的「作者简介」提供博客、应用资源站、反馈邮箱和微信赞赏码。
+- 署名 **wuhua0871**
+- GitHub [wuhua0871](https://github.com/wuhua0871)
+- 个人博客 [wuhua0871.com](https://wuhua0871.com)
+- 应用资源站 [app.wuhua0871.com](https://app.wuhua0871.com)
+- 反馈邮箱 [wuhua0871@live.cn](mailto:wuhua0871@live.cn)
+
+微信赞赏码可以在应用内的「作者简介 → 支持作者」中查看。
